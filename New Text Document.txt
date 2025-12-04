@@ -1,2 +1,6 @@
 Email Pass: wndq idqd igfi nglm
 Email:apaviansoft@gmail.com
+
+
+Laravel Crud
+https://www.itsolutionstuff.com/post/laravel-10-crud-application-example-tutorialexample.html
